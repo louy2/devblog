@@ -10,6 +10,5 @@ module.exports = {
     github: 'https://github.com/louy2',
     linkedin: 'https://linkedin.com/in/louyufan',
   },
-  pathPrefix: '/',
   siteUrl: 'https://yufan.dev',
 };
