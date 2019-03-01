@@ -1,17 +1,15 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
-  showHeaderImage: true,
-  showShareButtons: true,
+  title: 'Techwaza', // Required
+  author: 'Yufan Lou', // Required
+  description: 'A trilingual lambda',
+  primaryColor: '#8F4E8B', // Required  Haskell violet
+  showHeaderImage: false,
+  showShareButtons: false,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    github: 'https://github.com/louy2',
+    linkedin: 'https://linkedin.com/in/louyufan',
   },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  pathPrefix: '/',
+  siteUrl: 'https://yufan.dev',
 };
